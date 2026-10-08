@@ -1,0 +1,38 @@
+{
+  "accuracy_on_holdout": 0.9931818181818182,
+  "rows": 2200,
+  "crop_labels": [
+    "apple",
+    "banana",
+    "blackgram",
+    "chickpea",
+    "coconut",
+    "coffee",
+    "cotton",
+    "grapes",
+    "jute",
+    "kidneybeans",
+    "lentil",
+    "maize",
+    "mango",
+    "mothbeans",
+    "mungbean",
+    "muskmelon",
+    "orange",
+    "papaya",
+    "pigeonpeas",
+    "pomegranate",
+    "rice",
+    "watermelon"
+  ],
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "note": "The crop recommendation dataset has no district or season columns. This model uses soil and weather inputs only."
+}

@@ -1,0 +1,13 @@
+Andhra Pradesh crop price model report
+=======================================
+Usable Andhra Pradesh rows: 23,253
+District names with direct price records: 26
+Crop names with price records: 81
+Data starts: 2025-01-01
+Data ends: 2026-07-29
+Validation starts: 2026-02-03
+Validation rows: 4,520
+MAE: ₹2,377.55 per quintal
+RMSE: ₹4,173.01 per quintal
+
+Predictions for districts without direct price records are estimates and may be less reliable.

@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+data/raw/
+.streamlit/secrets.toml
+CropWise_AP_demo.zip
